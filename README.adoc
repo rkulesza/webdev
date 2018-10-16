@@ -12,3 +12,26 @@ link:https://github.com/limatheusm/minicurso-webmedia-react[código-fonte]
 link:https://github.com/claudiomarpda/spring-boot-tutorial[código-fonte]
 [indent=0]
 
+== Instação do Node na VM
+[ident=0]
+----
+$ apt-get install curl
+...
+$ curl -sL https://deb.nodesource.com/setup_10.x > setup_10.x
+...
+$ chmod +x setup_10.x
+...
+$ ./setup_10.x
+...
+$ apt-get install nodejs
+...
+$ apt-get install yarn
+...
+$ npm install create-react-app -g
+...
+$ create-react-app minicurso_webmedia
+...
+$ npm start
+
+----
+
