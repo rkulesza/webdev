@@ -9,6 +9,6 @@ link:https://github.com/limatheusm/minicurso-webmedia-react[código-fonte]
 [indent=0]
 
 == Exemplo Spring
-link:https://github.com/limatheusm/minicurso-webmedia-react[código-fonte]
+link:https://github.com/claudiomarpda/spring-boot-tutorial[código-fonte]
 [indent=0]
 
