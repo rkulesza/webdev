@@ -1,7 +1,7 @@
 = Material Minicurso Webmedia: 
 
 == Livro digital
-link:http://portaldeconteudo.sbc.org.br/index.php/minicursoswebmedia[Versão outubro 2018]
+link:https://webmedia.org.br/wp-content/uploads/2018/10/LivroDeMinicursosWebMedia2018.pdf [Versão outubro 2018]
 [indent=0]
 
 == Exemplo React
